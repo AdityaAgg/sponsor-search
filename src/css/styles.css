@@ -53,7 +53,10 @@ input[type=search]:focus, input[type=text]:focus {
 
 .org-list {
   margin: 0 auto;
-  width: 600px; }
+  max-width: 600px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 40px; }
 
 .org-desc {
   font-family: 'National-Regular';
