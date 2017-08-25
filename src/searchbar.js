@@ -8,7 +8,7 @@ export class SearchBar extends React.Component {
   render() {
     return (
       <form>
-        <input type="text" placeholder="Search..." onKeyPress={this.handleKeyPress}/>
+        <input type="search" placeholder="Search..." className="search" onKeyPress={this.handleKeyPress} results/>
 
       </form>
     );

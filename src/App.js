@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import logo from './logo.svg';
 import './App.css';
+import './css/styles.css';
 import {FilterableOrgList} from './filterableorglist';
 
 class App extends Component {
