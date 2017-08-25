@@ -1,4 +1,4 @@
-##Deployment Docs
+## Deployment Docs
 
 1. Clone the Repository.
 
@@ -14,7 +14,7 @@ For Deployment
 
 
 
-##Ideas for Further Implementation
+## Ideas for Further Implementation
 
 <ul>
 <li> Sort alphabetically </li>
